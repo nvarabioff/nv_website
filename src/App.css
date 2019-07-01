@@ -1,0 +1,166 @@
+/* Sets the theme color of the page */
+:root {
+  --theme-col: #0786A7;
+  --text-font: 'Montserrat', sans-serif;
+}
+
+/* image in header */
+.profile-pic {
+  height: 4vmin;
+  margin-right: 10px;
+  border-radius: 50px;
+}
+
+/* Main image on landing page */
+.first {
+  max-width: 100%;
+  border-radius: 1000px;
+}
+
+/* Custom properties for Jumbotron element */
+.jumbotron {
+  background-color: transparent !important;
+  text-align: left !important;
+}
+
+/* Custom properties for hr element */
+hr {
+  display: block;
+  height: 1px;
+  margin: 1em auto;
+  padding: 0;
+  width: 90%;
+  background-color: var(--theme-col);
+}
+
+/* Custom properties for Nav */
+.nav {
+  border-bottom: none !important;
+}
+
+/* For titles of tabs */
+.tabName {
+  font-size: 200% !important;
+  border: none !important;
+  padding: 20px !important;
+  margin-bottom: 4px !important;
+}
+
+/* Makes things turn blue and clickable on hover */
+.hovBlu:hover, .tabName:hover {
+  color: var(--theme-col) !important;
+  cursor: pointer !important;
+}
+
+/* Styling for tab content */
+.tcontent {
+  margin: 40px 0 40px 0 !important;
+}
+
+/* Active tab */
+.active {
+  color: var(--theme-col) !important;
+}
+
+/* For content of tabs, to override the active tab css */
+.content {
+  color: black !important;
+}
+
+/* Style for the About page */
+.txt-size {
+  font-size: 22px;
+  padding-top: 20px;
+  font-family: var(--text-font) !important;
+}
+
+/* Style for smaller text */
+.txt-size-small {
+  font-size: 18px;
+  padding-top: 7px;
+  font-family: var(--text-font) !important;
+}
+
+/* Smallest */
+.tiny {
+  font-size: 14px;
+}
+
+/* Tiny image */
+.tiny-img {
+  max-height: 20px;
+}
+
+/* Indent */
+.indent {
+  text-indent: 14px;
+}
+
+/* Style for dates */
+.dates {
+  font-size: 18px;
+  color: grey;
+}
+
+/* Style for titles */
+.title {
+  color: black;
+  font-size: 28px;
+  padding-top: 14px;
+}
+
+/* Underlining and making clickable titles */
+.title:hover{
+  text-decoration: underline var(--theme-col);
+  cursor: pointer !important;
+  color: black;
+}
+
+/* Text-Align left */
+.left {
+  text-align: left !important;
+}
+
+/* Text-Align center */
+.right {
+  text-align: right !important;
+}
+
+/* For the images in Carousel */
+.slideImg {
+  margin: auto;
+  width: 100%;
+  height: 300px;
+  object-fit: contain;
+}
+
+/* Changing color of Carousel arrows */
+.ctrl {
+  filter: invert(14%);
+}
+
+/* Company and School Logos */
+.logo {
+  max-width: 50%;
+  position: absolute;
+  margin: 30px auto;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+/* Footer */
+footer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Organizing icons in footer */
+footer a {
+  color: black;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
