@@ -22,7 +22,7 @@
       "__dates": "April 2019",
       "__description": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.",
       "__url": "https://lichess.org"
-    }    
+    }
   ],
   "experiences": [
     {
@@ -30,7 +30,7 @@
       "logo": "https://drive.google.com/uc?id=16CjMRQI-8VAg7MLX2l_CHAMVgNL9y4-E",
       "url": "https://www.mmc.com/",
       "title": "Software Developer",
-      "description": "During my recent co-op term at Marsh & McLennan Companies, I worked as part of the Financial Innfrastructure Solutions (FIS) team. During my time here, I contributed to maintenance and development of source code written in Java using Oracle Database, I created automated testing scripts in Automation Anywhere to perform unit and regression tests on the RMB system, and created SQL scripts to generate test data, and I contributed to development of the mobile application in React Native.",
+      "description": "During my recent co-op term at Marsh & McLennan Companies, I worked as part of the Financial Innfrastructure Solutions (FIS) team. While here, I contributed to maintenance and development of source code written in Java using Oracle Database, I created automated testing scripts in Automation Anywhere to perform unit and regression tests on the RMB system, and created SQL scripts to generate test data, and I contributed to development of the mobile application in React Native.",
       "dates": "May - August 2019",
       "location": "Toronto, ON"
     },
