@@ -8,7 +8,7 @@
     {
       "title": "Citation Generator",
       "dates": "June 2019",
-      "description": "This is an IEEE citation generator I created for school projects, as an alternative to the free online citation generators that are filled with ads. It uses React and Redux on the frontend, with a Firebase backend, including Firestore db and Firebase Auth.",
+      "description": "This is an IEEE citation generator I created for school projects, as an alternative to the free online citation generators that are filled with ads. It uses React and Redux on the frontend, with a Firebase backend, including Firestore db and Firebase Authentication.",
       "url": "https://citationgenerator-24e5c.web.app/"
     },
     {
@@ -30,7 +30,7 @@
       "logo": "https://drive.google.com/uc?id=16CjMRQI-8VAg7MLX2l_CHAMVgNL9y4-E",
       "url": "https://www.mmc.com/",
       "title": "Software Developer",
-      "description": "During my recent co-op term at Marsh & McLennan Companies, I worked as part of the Financial Innfrastructure Solutions (FIS) team. While here, I contributed to maintenance and development of source code written in Java using Oracle Database, I created automated testing scripts in Automation Anywhere to perform unit and regression tests on the RMB system, and created SQL scripts to generate test data, and I contributed to development of the mobile application in React Native.",
+      "description": "During my recent co-op term at Marsh & McLennan Companies, I worked as part of the Financial Innfrastructure Solutions (FIS) team. While here, I contributed to maintenance and development of source code written in Java with Oracle Database, I created automated testing scripts in Automation Anywhere to perform unit and regression tests, I created SQL scripts to generate test data, and I contributed to development of the RMB mobile application in React Native.",
       "dates": "May - August 2019",
       "location": "Toronto, ON"
     },
