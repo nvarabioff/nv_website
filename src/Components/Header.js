@@ -57,7 +57,7 @@ class Header extends React.Component {
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="https://drive.google.com/uc?id=1qoX2PZJ946Uigf0G3SRMd74te_iJajso" className="hovBlu">
+                  <NavLink href="https://drive.google.com/uc?id=1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW" className="hovBlu">
                     <FontAwesomeIcon icon={faFileAlt} />
                   </NavLink>
                 </NavItem>
