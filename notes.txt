@@ -16,3 +16,9 @@ Deploy to github:
  Files from Google Drive:
  - Right click item, click "get sharable link"
  - Replace "open" with "uc"
+
+
+GIT Changes:
+ - git status -> shows changed files
+ - git add . -> Adds (all of the modified files) to staging area
+ - git commit -m "<message>" -> commits the modified files
