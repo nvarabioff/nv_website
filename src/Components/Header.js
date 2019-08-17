@@ -52,7 +52,7 @@ class Header extends React.Component {
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="mailto:nvarabioff@gmail.com" className="hovBlu">
+                  <NavLink href="mailto:nmvarabi@uwaterloo.ca" className="hovBlu">
                     <FontAwesomeIcon icon={faEnvelope} />
                   </NavLink>
                 </NavItem>

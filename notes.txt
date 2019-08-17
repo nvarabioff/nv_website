@@ -16,6 +16,8 @@ Deploy to github:
  Files from Google Drive:
  - Right click item, click "get sharable link"
  - Replace "open" with "uc"
+ - For Resume, can just drag and drop new version to folder on drive. A popup window should open saying they "match"
+    - Just click "replace" and the file will update, no need to make changes to drive link on website code
 
 
 GIT Changes:

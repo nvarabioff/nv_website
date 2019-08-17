@@ -16,7 +16,7 @@ class Footer extends React.Component {
           <a href="https://github.com/nvarabioff" className="hovBlu">
             <FontAwesomeIcon icon={faGithub} />
           </a>
-          <a href="mailto:nvarabioff@gmail.com" className="hovBlu">
+          <a href="mailto:nmvarabi@uwaterloo.ca" className="hovBlu">
             <FontAwesomeIcon icon={faEnvelope} />
           </a>
           <a href="https://drive.google.com/uc?id=1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW" className="hovBlu">
