@@ -3,6 +3,10 @@ import './App.css';
 import Header from './Components/Header';
 import Main from './Components/Main';
 import Footer from './Components/Footer';
+import ReactGA from 'react-ga';
+
+ReactGA.initialize('UA-147972937-1');
+ReactGA.pageview('/homepage');
 
 class App extends Component {
   render() {
