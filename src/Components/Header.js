@@ -12,7 +12,7 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope, faFileAlt } from '@fortawesome/free-solid-svg-icons';
-import Website from '../Assets/Website.jpg';
+import Logo from '../Assets/logo_transparent.png';
 
 // Header bar, including name, image and icons
 class Header extends React.Component {
@@ -36,7 +36,7 @@ class Header extends React.Component {
       <div>
         <Navbar color="light" light expand="md">
           <Container>
-            <img src={Website} className="profile-pic" alt="Nicholas Varabioff"/>
+            <img src={Logo} className="profile-pic" alt="Nicholas Varabioff"/>
             <NavbarBrand>Nicholas Varabioff</NavbarBrand>
             <NavbarToggler onClick={this.toggle}/>
             <Collapse isOpen={this.state.isOpen} navbar>

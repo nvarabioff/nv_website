@@ -10,6 +10,9 @@ TO DO:
 
 Located at: https://nvarabioff.github.io/nv_website/
 
+Run Locally:
+- npm start
+
 Deploy to github:
  - npm run deploy
 
@@ -18,7 +21,6 @@ Deploy to github:
  - Replace "open" with "uc"
  - For Resume, can just drag and drop new version to folder on drive. A popup window should open saying they "match"
     - Just click "replace" and the file will update, no need to make changes to drive link on website code
-
 
 GIT Changes:
  - git status -> shows changed files
