@@ -10,16 +10,16 @@ class Footer extends React.Component {
     return (
       <footer>
         <Container>
-          <a href="https://ca.linkedin.com/in/nvarabioff" className="hovBlu">
+          <a href="https://ca.linkedin.com/in/nvarabioff" className="hovBlu" target="_blank">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
-          <a href="https://github.com/nvarabioff" className="hovBlu">
+          <a href="https://github.com/nvarabioff" className="hovBlu" target="_blank">
             <FontAwesomeIcon icon={faGithub} />
           </a>
           <a href="mailto:nmvarabi@uwaterloo.ca" className="hovBlu">
             <FontAwesomeIcon icon={faEnvelope} />
           </a>
-          <a href="https://drive.google.com/uc?id=1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW" className="hovBlu">
+          <a href="https://drive.google.com/uc?id=1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW" className="hovBlu" target="_blank">
             <FontAwesomeIcon icon={faFileAlt} />
           </a>
         </Container>

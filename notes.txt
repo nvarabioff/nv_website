@@ -3,10 +3,9 @@ Icons: https://fontawesome.com/how-to-use/with-the-api/setup/importing-icons
 C:\Users\Nicholas\nv_website
 
 TO DO:
-- Create information
-- Domain name
-- Github hosting: https://reactgo.com/deploy-react-app-github-pages/
-- https://github.com/gitname/react-gh-pages/tree/master
+- Make icon work
+- Make website secure (https)
+- 
 
 Located at: https://nvarabioff.github.io/nv_website/
 

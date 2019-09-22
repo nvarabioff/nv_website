@@ -42,12 +42,12 @@ class Header extends React.Component {
             <Collapse isOpen={this.state.isOpen} navbar>
               <Nav className="ml-auto" navbar>
                 <NavItem>
-                  <NavLink href="https://ca.linkedin.com/in/nvarabioff" className="hovBlu">
+                  <NavLink href="https://ca.linkedin.com/in/nvarabioff" className="hovBlu" target="_blank">
                     <FontAwesomeIcon icon={faLinkedin} />
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="https://github.com/nvarabioff" className="hovBlu">
+                  <NavLink href="https://github.com/nvarabioff" className="hovBlu" target="_blank">
                     <FontAwesomeIcon icon={faGithub} />
                   </NavLink>
                 </NavItem>
@@ -57,7 +57,7 @@ class Header extends React.Component {
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="https://drive.google.com/uc?id=1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW" className="hovBlu">
+                  <NavLink href="https://drive.google.com/uc?id=1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW" className="hovBlu" target="_blank">
                     <FontAwesomeIcon icon={faFileAlt} />
                   </NavLink>
                 </NavItem>
