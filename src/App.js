@@ -6,7 +6,7 @@ import Footer from './Components/Footer';
 import ReactGA from 'react-ga';
 
 ReactGA.initialize('UA-147972937-1');
-ReactGA.pageview('/main');
+ReactGA.pageview('/');
 
 class App extends Component {
   render() {

@@ -5,6 +5,7 @@ C:\Users\Nicholas\nv_website
 TO DO:
 - Make icon work
 - Make website secure (https)
+- Fix Google Analytics
 - Integrate Strava api
 - Include more things that are cool about me/that I am interested in
 
