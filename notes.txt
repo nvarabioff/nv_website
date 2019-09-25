@@ -3,13 +3,13 @@ Icons: https://fontawesome.com/how-to-use/with-the-api/setup/importing-icons
 C:\Users\Nicholas\nv_website
 
 TO DO:
-- Make icon work
-- Make website secure (https)
+- Make better icon
 - Fix Google Analytics
+- Optimize for mobile
 - Integrate Strava api
 - Include more things that are cool about me/that I am interested in
 
-Located at: https://nvarabioff.github.io/nv_website/
+Located at: https://nvarabioff.github.io/
 
 Run Locally:
 - npm start
