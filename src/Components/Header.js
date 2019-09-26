@@ -10,7 +10,7 @@ import {
   Container
   } from 'reactstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faLinkedin, faGithub, faStrava } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope, faFileAlt } from '@fortawesome/free-solid-svg-icons';
 import Logo from '../Assets/logo_transparent.png';
 
@@ -59,6 +59,11 @@ class Header extends React.Component {
                 <NavItem>
                   <NavLink href="https://drive.google.com/uc?id=1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW" className="hovBlu" target="_blank">
                     <FontAwesomeIcon icon={faFileAlt} />
+                  </NavLink>
+                </NavItem>
+                <NavItem>
+                  <NavLink href="https://www.strava.com/athletes/11038877" className="hovBlu" target="_blank">
+                    <FontAwesomeIcon icon={faStrava} />
                   </NavLink>
                 </NavItem>
               </Nav>

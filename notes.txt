@@ -7,7 +7,7 @@ TO DO:
 - Fix Google Analytics
 - Optimize for mobile
 - Integrate Strava api
-- Include more things that are cool about me/that I am interested in
+- Include more things that are cool about me/that I am interested in, improve general design of site
 
 Located at: https://nvarabioff.github.io/
 
