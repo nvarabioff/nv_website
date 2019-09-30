@@ -6,7 +6,7 @@
 
 /* image in header */
 .profile-pic {
-  height: 7vmin;
+  /* height: 7vmin; */
   margin-right: 10px;
   border-radius: 50px;
 }

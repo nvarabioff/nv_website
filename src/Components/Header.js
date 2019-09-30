@@ -12,7 +12,7 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub, faStrava } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope, faFileAlt } from '@fortawesome/free-solid-svg-icons';
-import Logo from '../Assets/logo_transparent.png';
+import Logo from '../Assets/favicon-32x32.png';
 
 // Header bar, including name, image and icons
 class Header extends React.Component {
