@@ -9,6 +9,10 @@ TO DO:
 - Integrate Strava api
 - Include more things that are cool about me/that I am interested in, improve general design of site
 
+IDEAS:
+- Make sideways scrolling like https://www.snaptech.com/
+- Navbar items scrolling like https://www.ironoakgames.com
+
 Located at: https://nvarabioff.github.io/
 
 Run Locally:
