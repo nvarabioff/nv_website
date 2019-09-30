@@ -12,6 +12,7 @@ TO DO:
 IDEAS:
 - Make sideways scrolling like https://www.snaptech.com/
 - Navbar items scrolling like https://www.ironoakgames.com
+- Change picture on hover - normal-> funny like https://get.nicejob.co/careers#jobs
 
 Located at: https://nvarabioff.github.io/
 
