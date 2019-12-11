@@ -4,15 +4,16 @@ Personal Icon: https://favicon.io/favicon-generator/
 C:\Users\Nicholas\projects\nv_website
 
 TO DO:
-- Fix Google Analytics
 - Optimize for mobile
 - Integrate Strava api
 - Include more things that are cool about me/that I am interested in, improve general design of site
+- Put tabs back in - work experience and projects once I have some cool ones
 
 IDEAS:
 - Make sideways scrolling like https://www.snaptech.com/
 - Navbar items scrolling like https://www.ironoakgames.com
 - Change picture on hover - normal-> funny like https://get.nicejob.co/careers#jobs
+- Loading page is snake?
 
 Located at: https://nvarabioff.github.io/ and https://nicholasvarabioff.ca
 

@@ -16,7 +16,7 @@ class About extends React.Component {
           <Col className="left">
             <p className="txt-size-small">{Information.about1}</p>
             <p className="txt-size-small">{Information.about2}</p>
-            <p className="txt-size-small">{Information.about3}</p>
+            {/* <p className="txt-size-small">{Information.about3}</p> */}
           </Col>
           <Col xs="5">
             <Slides />
