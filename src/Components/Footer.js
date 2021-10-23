@@ -10,19 +10,19 @@ class Footer extends React.Component {
     return (
       <footer>
         <Container>
-          <a href="https://ca.linkedin.com/in/nvarabioff" className="hovBlu" target="_blank">
+          <a href="https://ca.linkedin.com/in/nvarabioff" className="hovBlu" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
-          <a href="https://github.com/nvarabioff" className="hovBlu" target="_blank">
+          <a href="https://github.com/nvarabioff" className="hovBlu" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faGithub} />
           </a>
-          <a href="mailto:nmvarabi@uwaterloo.ca" className="hovBlu">
+          <a href="mailto:nmvarabi@uwaterloo.ca" className="hovBlu" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faEnvelope} />
           </a>
-          <a href="https://drive.google.com/uc?id=1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW" className="hovBlu" target="_blank">
+          <a href="https://drive.google.com/uc?id=1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW" className="hovBlu" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faFileAlt} />
           </a>
-          <a href="https://www.strava.com/athletes/11038877" className="hovBlu" target="_blank">
+          <a href="https://www.strava.com/athletes/11038877" className="hovBlu" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faStrava} />
           </a>
         </Container>

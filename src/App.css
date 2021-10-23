@@ -78,6 +78,7 @@ hr {
 .txt-size-small {
   font-size: 18px;
   padding-top: 7px;
+  padding: 20px;
   font-family: var(--text-font) !important;
 }
 
@@ -100,6 +101,7 @@ hr {
 .dates {
   font-size: 18px;
   color: grey;
+  padding-left: 20px;
 }
 
 /* Style for titles */
@@ -107,6 +109,7 @@ hr {
   color: black;
   font-size: 28px;
   padding-top: 14px;
+  padding-left: 20px;
 }
 
 /* Underlining and making clickable titles */
@@ -114,6 +117,13 @@ hr {
   text-decoration: underline var(--theme-col);
   cursor: pointer !important;
   color: black;
+}
+
+.title-non-click {
+  color: black;
+  font-size: 28px;
+  padding-top: 14px;
+  padding-left: 20px;
 }
 
 /* Text-Align left */

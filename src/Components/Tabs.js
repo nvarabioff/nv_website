@@ -45,7 +45,7 @@ class Tabs extends React.Component {
               About Me
             </NavLink>
           </NavItem>
-          {/*<NavItem>
+          <NavItem>
             <NavLink
               className={classnames({ active: this.state.activeTab === '2' }, "tabName")}
               onClick={() => {
@@ -54,8 +54,8 @@ class Tabs extends React.Component {
             >
               Projects
             </NavLink>
-          </NavItem>*/}
-          {/*<NavItem>
+          </NavItem>
+          <NavItem>
             <NavLink
               className={classnames({ active: this.state.activeTab === '3' }, "tabName")}
               onClick={() => {
@@ -64,7 +64,7 @@ class Tabs extends React.Component {
             >
               Experience
             </NavLink>
-          </NavItem>*/}
+          </NavItem>
           {/*<NavItem>
             <NavLink
               className={classnames({ active: this.state.activeTab === '4' }, "tabName")}

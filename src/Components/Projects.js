@@ -14,10 +14,11 @@ class Projects extends React.Component {
         {Information.projects.map(function (project, i) {
           return (
             <Row>
-              <Col xs="3" className="right">
+              <Col xs="3" className="left">
                 <div key={i}>
                   <Row>
-                    <a href={project.url} className="title">{project.title}</a>
+                    {/*<a href={project.url} className="title-non-click">{project.title}</a>*/}
+                    <p className="title-non-click">{project.title}</p>
                   </Row>
                   <Row>
                     <span className="dates">{project.dates}</span>

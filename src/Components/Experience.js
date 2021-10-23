@@ -15,18 +15,19 @@ class Experience extends React.Component {
         {Information.experiences.map(function (experience, i) {
           return (
             <Row>
-              <Col xs="3" className="left">
+              {/*<Col xs="3" className="left">
                 <div key={i}>
                   <Media left top href={experience.url}>
                     <Media object src={experience.logo} alt={experience.companyName} className="logo"/>
                   </Media>
                 </div>
-              </Col>
+          </Col>*/}
               <Col className="left">
                 <div key={i}>
                   <Media body>
                     <Media heading>
                       <Row>
+                        <p className="title-non-click"><b>{experience.title}</b></p>
                         <a href={experience.url} className="title">{experience.companyName}</a>
                       </Row>
                       <Row>

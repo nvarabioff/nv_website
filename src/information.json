@@ -6,21 +6,78 @@
   "about3": "I am currently seeking internship opportunities for Winter 2020 in Software Engineering and Product Management, so feel free to reach out if you know of any suitable opportunities!",
   "projects": [
     {
-      "title": "title",
-      "dates": "dates",
-      "description": "description",
+      "title": "ESGTree Carbon Calculator",
+      "dates": "September 2021 - April 2022",
+      "description": "For my Capstone project, our team is partnering with ESGTree to create a carbon emissions calculator for infrastructure projects. This calculator will account for Scope 1, 2, and 3 emissions and provide investors with information and recommendations for reducing the carbon footprint of their infrastructure projects.",
       "url": "url"
+    },
+    {
+      "title": "NHL Player Salary Predictor",
+      "dates": "January - April 2021",
+      "description": "Salary cap management is a key component of sports management, and this involves evaluating player performence to ensure each player is offered a fair contract. Using historical NHL player performance and salary data, I worked on a 2 person team that evaluated the effectiveness of different regression algorithms to predict the salaries of NHL skaters.",
+      "url": "https://github.com/nvarabioff/SYDE522-Project/"
+    },
+    {
+      "title": "Search Engine",
+      "dates": "September - December 2021",
+      "description": "Following project structure from MSCI 541 - Search Engines, I developed search engine that implements document parsing, language tokenization, and document ranking on fixed document collection.",
+      "url": "url"
+    },
+    {
+      "title": "Build-a-Beat",
+      "dates": "May - August 2020",
+      "description": "For a Systems Design Engineering course, our team built a tool that uses Genetic Algorithms to assist users in creating original music tracks. This involved initial generation of a random track along with application of a mutation Genetic Algorithm.",
+      "url": "https://github.com/nvarabioff/Build-a-Beat"
     }
   ],
   "experiences": [
     {
-      "companyName": "companyName",
-      "logo": "logo",
-      "url": "url",
-      "title": "title",
-      "description": "description",
-      "dates": "dates",
-      "location": "location"
+      "companyName": "HockeyShot",
+      "url": "https://www.hockeyshot.com/",
+      "title": "Software Developer",
+      "description": "At HockeyShot, I worked on the development of the HockeyShot Smart Shooting Tarp product. My primary tasks focused on the development of the mobile application (developed in Flutter) that tracks and measures user performance. For this application, I was in charge of designing and implementing the database schema to store user information.",
+      "dates": "May - August 2021",
+      "location": "Remote - Canada"
+    },
+    {
+      "companyName": "Emtelligent",
+      "url": "https://www.emtelligent.com/",
+      "title": "Jr. Software Developer",
+      "description": "At Emtelligent, I developed a Python tool from scratch to automate the downloading and cleaning of medical ontology data. This turned what used to be a technically demanding hour-long manual process to take only a few minutes with minimal knowledge required by the user. I also wrote SQL scripts to configure data in MySQL databases and integrated these databases with the Emtelligent Natural Language Processing engine.",
+      "dates": "January - December 2020",
+      "location": "Vancouver, BC, Canada"
+    },
+    {
+      "companyName": "Marsh & McLennan",
+      "url": "https://www.marshmclennan.com/",
+      "title": "Software Developer",
+      "description": "At MMC, I was in charge of regression testing of the internal revenue management system. This included developing SQL scripts to create testing data and daily reports of regression testing results.",
+      "dates": "May - August 2019",
+      "location": "Toronto, ON, Canada"
+    },
+    {
+      "companyName": "General Motors",
+      "url": "https://www.gm.com/",
+      "title": "Embedded Controls (Diagnostics)",
+      "description": "At GM, I was in charge of the create of a standalone Hardware-In-Loop Test Bench to streamline testing of the Body Control Module. This involved modelling complex vehicle systems using MATLAB/Simulink, writing embedded software to simulate signals between the Body Control Module and multiple other in-vehicle microcontrollers, and implementing complete hardwiring of testing bench setup.",
+      "dates": "September - December 2018",
+      "location": "Markham, ON, Canada"
+    },
+    {
+      "companyName": "Uniserve Communications",
+      "url": "https://uniserve.com/",
+      "title": "Tier 1 Technical Support",
+      "description": "As Tier 1 Technical Support, I interacted with customers directly to resolve issues with customer internet, phone, email, and other internet service provider services.",
+      "dates": "January - April 2018",
+      "location": "Vancouver, BC, Canada"
+    },
+    {
+      "companyName": "St. George's Pool",
+      "url": "https://www.stgeorges.bc.ca/athletic-teams/aquatics",
+      "title": "Lifeguard",
+      "description": "Over the summer, I worked as a Lifeguard at the St. George's Pool supervising swimmers and other general lifeguarding duties.",
+      "dates": "May - August 2017",
+      "location": "Vancouver, BC, Canada"
     }
   ],
   "education": [
