@@ -6,12 +6,6 @@
   "about3": "I am currently seeking internship opportunities for Winter 2020 in Software Engineering and Product Management, so feel free to reach out if you know of any suitable opportunities!",
   "projects": [
     {
-      "title": "ESGTree Carbon Calculator",
-      "dates": "September 2021 - April 2022",
-      "description": "For my Capstone project, our team is partnering with ESGTree to create a carbon emissions calculator for infrastructure projects. This calculator will account for Scope 1, 2, and 3 emissions and provide investors with information and recommendations for reducing the carbon footprint of their infrastructure projects.",
-      "url": "url"
-    },
-    {
       "title": "NHL Player Salary Predictor",
       "dates": "January - April 2021",
       "description": "Salary cap management is a key component of sports management, and this involves evaluating player performence to ensure each player is offered a fair contract. Using historical NHL player performance and salary data, I worked on a 2 person team that evaluated the effectiveness of different regression algorithms to predict the salaries of NHL skaters.",
@@ -21,6 +15,12 @@
       "title": "Search Engine",
       "dates": "September - December 2021",
       "description": "Following project structure from MSCI 541 - Search Engines, I developed search engine that implements document parsing, language tokenization, and document ranking on fixed document collection.",
+      "url": "url"
+    },
+    {
+      "title": "Carbon Calculator",
+      "dates": "September 2021 - April 2022",
+      "description": "For my Engineering Capstone project, our team is working to create a carbon emissions calculator for infrastructure projects. This calculator will account for Scope 1, 2, and 3 emissions and provide investors with information and recommendations for reducing the carbon footprint of their infrastructure projects.",
       "url": "url"
     },
     {
