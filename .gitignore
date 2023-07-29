@@ -18,6 +18,7 @@
 .env.test.local
 .env.production.local
 notes.txt
+notes.txt
 information-old.json
 
 npm-debug.log*
