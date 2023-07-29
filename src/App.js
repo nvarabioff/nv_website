@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Header from './Components/Header';
 import Main from './Components/Main';
+import Tabs from './Components/Tabs';
 import Footer from './Components/Footer';
 import ReactGA from 'react-ga';
 
@@ -14,6 +15,7 @@ class App extends Component {
       <div className="App">
         <Header />
         <Main />
+        <Tabs id="scrl"/>
         <Footer />
       </div>
     );
