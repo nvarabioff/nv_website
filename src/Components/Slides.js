@@ -5,10 +5,9 @@ import {
   CarouselControl,
   CarouselIndicators
 } from 'reactstrap';
-import Biking from '../Assets/Biking.jpg';
-import Chief from '../Assets/Chief.jpg';
+import Biking from '../Assets/Biking.jpeg';
+import Hiking_2 from '../Assets/Hiking_2.JPG';
 import Hiking from '../Assets/Hiking.jpg';
-import Hockey from '../Assets/Hockey.jpg';
 import Trombone from '../Assets/Trombone.jpg';
 
 const items = [
@@ -17,16 +16,12 @@ const items = [
     altText: 'Slide 1',
   },
   {
-    src: Chief,
+    src: Hiking_2,
     altText: 'Slide 2',
   },
   {
     src: Hiking,
     altText: 'Slide 3',
-  },
-  {
-    src: Hockey,
-    altText: 'Slide 4',
   },
   {
     src: Trombone,

@@ -1,8 +1,8 @@
 {
   "title": "Nicholas Varabioff",
-  "summary": "I'm passionate about Software Development, always looking for efficient and different solutions to daily problems. I'm looking to give my best for the company I'm working with, and grow as a person and co-worker.",
-  "about1": "My name is Nicholas Varabioff. I'm originally from Vancouver, and am currently in the fourth year of my undergraduate degree in Systems Design Engineering at the University of Waterloo.",
-  "about2": "Outside of work, I love problem solving, playing chess, listening to podcasts, playing and watching competitive sports, and listening to all varieties of music. I'm excited to pursue an opportunity in which I can apply my skills in a challenging environment.",
+  "summary": "Nice to meet you! I am a Data Engineer working at Vivid Seats. While you're here, please enjoy this daily chess puzzle thanks to lichess.org!",
+  "about1": "My name is Nicholas Varabioff. I'm originally from Vancouver, and am currently working as a Data Engineer at Vivid Seats.",
+  "about2": "Outside of work, I love playing chess, listening to country of music, playing and watching competitive sports, and spending time with my friends and family.",
   "about3": "I am currently seeking internship opportunities for Winter 2020 in Software Engineering and Product Management, so feel free to reach out if you know of any suitable opportunities!",
   "projects": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "Carbon Calculator",
       "dates": "September 2021 - April 2022",
-      "description": "For my Engineering Capstone project, our team is working to create a carbon emissions calculator for infrastructure projects. This calculator will account for Scope 1, 2, and 3 emissions and provide investors with information and recommendations for reducing the carbon footprint of their infrastructure projects.",
+      "description": "For my Engineering Capstone project, our team created a carbon emissions calculator for infrastructure projects. This calculator accounts for Scope 1, 2, and 3 emissions and provides investors with information and recommendations for reducing the carbon footprint of their infrastructure projects.",
       "url": "url"
     },
     {
@@ -31,6 +31,14 @@
     }
   ],
   "experiences": [
+    {
+      "companyName": "Vivid Seats",
+      "url": "https://www.vividseats.com/",
+      "title": "Data Engineer",
+      "description": "At Vivid Seats, my responsibilities include managing cloud MySQL database infrastructure and data warehouse replication, configuring and maintaining data ETL pipelines and scheduled tasks, and supporting stakeholders with access and usage of the data engineering infrastructure. One recent initiative was to oversee the major version upgrade of our production databases to MySQL 8.0.",
+      "dates": "May 2022 - Present",
+      "location": "Remote - Canada"
+    },
     {
       "companyName": "HockeyShot",
       "url": "https://www.hockeyshot.com/",
@@ -54,30 +62,6 @@
       "description": "At MMC, I was in charge of regression testing of the internal revenue management system. This included developing SQL scripts to create testing data and daily reports of regression testing results.",
       "dates": "May - August 2019",
       "location": "Toronto, ON, Canada"
-    },
-    {
-      "companyName": "General Motors",
-      "url": "https://www.gm.com/",
-      "title": "Embedded Controls (Diagnostics)",
-      "description": "At GM, I was in charge of the create of a standalone Hardware-In-Loop Test Bench to streamline testing of the Body Control Module. This involved modelling complex vehicle systems using MATLAB/Simulink, writing embedded software to simulate signals between the Body Control Module and multiple other in-vehicle microcontrollers, and implementing complete hardwiring of testing bench setup.",
-      "dates": "September - December 2018",
-      "location": "Markham, ON, Canada"
-    },
-    {
-      "companyName": "Uniserve Communications",
-      "url": "https://uniserve.com/",
-      "title": "Tier 1 Technical Support",
-      "description": "As Tier 1 Technical Support, I interacted with customers directly to resolve issues with customer internet, phone, email, and other internet service provider services.",
-      "dates": "January - April 2018",
-      "location": "Vancouver, BC, Canada"
-    },
-    {
-      "companyName": "St. George's Pool",
-      "url": "https://www.stgeorges.bc.ca/athletic-teams/aquatics",
-      "title": "Lifeguard",
-      "description": "Over the summer, I worked as a Lifeguard at the St. George's Pool supervising swimmers and other general lifeguarding duties.",
-      "dates": "May - August 2017",
-      "location": "Vancouver, BC, Canada"
     }
   ],
   "education": [

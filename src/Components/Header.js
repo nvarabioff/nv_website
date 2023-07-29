@@ -52,15 +52,15 @@ class Header extends React.Component {
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="mailto:nmvarabi@uwaterloo.ca" className="hovBlu">
+                  <NavLink href="mailto:nvarabioff@gmail.com" className="hovBlu">
                     <FontAwesomeIcon icon={faEnvelope} />
                   </NavLink>
                 </NavItem>
-                <NavItem>
+                {/* <NavItem>
                   <NavLink href="https://drive.google.com/uc?id=1TguivckW-bYxp2rUKZVGcCc8Z76KA_PW" className="hovBlu" target="_blank">
                     <FontAwesomeIcon icon={faFileAlt} />
                   </NavLink>
-                </NavItem>
+                </NavItem> */}
                 <NavItem>
                   <NavLink href="https://www.strava.com/athletes/11038877" className="hovBlu" target="_blank">
                     <FontAwesomeIcon icon={faStrava} />

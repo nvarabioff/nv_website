@@ -5,9 +5,8 @@ import {
   Col,
   Row
   } from 'reactstrap';
-import Tabs from './Tabs';
 import Information from '../information.json';
-import Website from '../Assets/Website_3.jpg';
+import Website from '../Assets/Website_4.jpg';
 
 class Main extends React.Component {
   render() {
@@ -20,15 +19,17 @@ class Main extends React.Component {
                 <img src={Website} className="first" alt="Nicholas Varabioff"/>
               </Col>
               <Col>
-                  <h1 className="display-3">{Information.title}</h1>
-                  <p className="txt-size">{Information.summary}</p>
+                <h1 className="display-3">{Information.title}</h1>
+                <p className="txt-size">{Information.summary}</p>
               </Col>
+            </Row>
+            <Row>
+              <iframe src="https://lichess.org/training/frame?theme=brown&bg=dark" 
+                style={{width: "400px", height: "444px", display: "block", margin: "0 auto"}} allowtransparency="true" frameborder="0"></iframe>
             </Row>
           </Container>
         </Jumbotron>
-        <Container>
-          <Tabs id="scrl"/>
-        </Container>
+        
         <hr/>
       </div>
     );
